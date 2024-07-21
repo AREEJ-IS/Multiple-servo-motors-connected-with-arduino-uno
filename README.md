@@ -76,6 +76,5 @@ void loop()
 
 - Note program that help you design
 
-- Tinkercad : https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tinkercad.com/&ved=2ahUKEwjD MOI_biHAxXY8gIHHap4C_IQFnoECAkQAQ&usg=AOvVaw1JxBDMj3J4tH5_HVKfRPhY
-  
+- Tinkercad :https://www.tinkercad.com/dashboard
  
